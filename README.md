@@ -1,6 +1,3 @@
-好的，下面是完整的 **Markdown 源代码**（即 `README.md` 文件的全部内容），你可以直接复制使用：
-
-````markdown
 # CIFAR-10 图像分类项目（PyTorch 实现）
 
 ## 📌 项目简介
