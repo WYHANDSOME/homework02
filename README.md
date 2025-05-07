@@ -86,8 +86,7 @@ transforms.Compose([
 ---
 
 ## 🖼️ 示例预测输出
-![模型预测结果](D:/neural_network/作业2/Figure_1.png)
-
+![示例图片](https://github.com/WYHANDSOME/homework02/blob/main/Figure_1.png)
 ```text
 GroundTruth:   cat  ship  ship plane  
 Predicted:     cat  ship plane  ship
