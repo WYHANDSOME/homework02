@@ -86,12 +86,12 @@ transforms.Compose([
 ---
 
 ## 🖼️ 示例预测输出
-!("D:\neural_network\作业2\Figure_1.png")
+![模型预测结果](D:/neural_network/作业2/Figure_1.png)
+
 ```text
 GroundTruth:   cat  ship  ship plane  
 Predicted:     cat  ship plane  ship
 ```
-
 ---
 
 ## 🔄 转换为 Jupyter Notebook
