@@ -9,16 +9,6 @@ CIFAR-10 是一个包含 10 个类别、共计 60000 张 32×32 彩色图片的�
 
 ---
 
-## 📦 使用的技术
-
-- Python 3.x  
-- PyTorch  
-- Torchvision  
-- Matplotlib  
-- NumPy
-
----
-
 ## 🧠 模型结构
 
 ```python
@@ -67,7 +57,7 @@ transforms.Compose([
 2. 运行主程序：
 
    ```bash
-   python main.py
+   python homework02.py
    ```
 
 ---
@@ -110,7 +100,7 @@ Predicted:     cat  ship plane  ship
 
 ```bash
 pip install jupytext
-jupytext main.py --to notebook
+jupytext homework02.py --to notebook
 ```
 
 ---
